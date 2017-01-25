@@ -9,6 +9,7 @@ disableSitemap = true
 #verbose = true
 uglyURLs = true
 #verboseLog = true
+canonifyURLs=true
 
 [params]
   colorscheme = "teal"

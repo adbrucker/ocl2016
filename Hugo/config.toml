@@ -1,0 +1,37 @@
+#baseurl = "http://oclworkshop.github.io/2017/"
+relativeurls = true
+languageCode = "en-en"
+title = "OCL Workshop"
+theme = "slender"
+disableRSS = true
+disableSitemap = true
+log = true
+logFile = "log.txt"
+verbose = true
+uglyURLs = false
+verboseLog = true
+canonifyurls = false
+
+[params]
+  colorscheme = "teal"
+  description = "17th International Workshop in OCL and Textual Modeling"
+
+  # Tagline; HTML accepted here. Keep it concise.
+  tagline = "17th International Workshop in OCL and Textual Modeling, July 19, 2017, Marburg, Germany."
+
+  # Footer; Markdown accepted here.
+  footer = "Copyright 2017 &copy; OCL Workshop'17 Organizers | Powered by [Hugo](http://gohugo.io) and the [Slender](http://themes.gohugo.io/slender/) theme"
+
+  # Description and keywords for <meta> tags.
+  # Remember to set this for your main page.
+  # This will be overridden by whatever is set by the page or post,
+  # defined by `description` and `keywords` variables in the front matter
+  # of the markdown file.
+   keywords = "OCL Workshop, STAF'17"
+
+  # Social links, must be full URLs (e.g. https://github.com/CrimsonRay/).
+  # Remove, comment, or leave blank any field to leave them out.
+   email = "mailto:ocl16@easychair.org"
+   github = "https://github.com/oclworkshop"
+   twitter = "https://twitter.com/oclworkshop"
+   linkedin = "https://www.linkedin.com/groups/3007822"
