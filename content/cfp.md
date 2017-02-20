@@ -99,5 +99,5 @@ post-conference edition of [CEUR](http://www.ceur-ws.org).
 ## Important Dates
 
 - Submission of papers:      April 28, 2017
-- Notification:              May   26, 2017
+- Notification:              May   25, 2017
 - Workshop date:             July  20, 2017
