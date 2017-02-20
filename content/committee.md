@@ -28,7 +28,6 @@ title = "Committee"
 * Birgit Demuth, Technische Universitat Dresden, Germany
 * Marina Egea, Indra Sistemas S .A., Spain
 * Geri Georg, Colorado State University, USA
-* Martin Gogolla, University of Bremen, Germany
 * Adolfo Sanchez - Barbudo Herrera, University of York, UK
 * Shahar Maoz, Tel Aviv University, Israel
 * Istvan Rath, Budapest University of Technology and Economics, Hungary
