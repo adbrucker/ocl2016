@@ -67,9 +67,9 @@ case studies of textual modeling as well as test suites and benchmark collection
 for evaluating textual modeling tools.
 
 ## Venue
-
-This workshop will be organized as a part of STAF 2017 Conferenze in Marburg, Germany. It was previously organized as part of the MODELS conference. Similar to its
-predecessors , the workshop addresses both people from academia and
+This workshop will be organized as a part of STAF 2017 Conferenze in Marburg, 
+Germany. It was previously organized as part of the MODELS conference. Similar 
+to its predecessors , the workshop addresses both people from academia and
 industry . The aim is to provide a forum for addressing integration of
 OCL and other textual modeling languages , as well as tools for textual
 modeling , and for disseminating good practice and discussing the new
@@ -85,8 +85,8 @@ sessions of working groups, and sum-up discussions.
 
 Two types of papers will be considered:
 
-* Short contributions (between 6 and 8 pages) describing new ideas, innovative tools
-or position papers.
+* Short contributions (between 6 and 8 pages) describing new ideas, innovative 
+  tools or position papers.
 * Full papers (between 12 and 16 pages).
 
 in LNCS format. Submissions should be uploaded to [EasyChair](https://easychair.org/conferences/?conf=ocl17).
@@ -98,6 +98,6 @@ post-conference edition of [CEUR](http://www.ceur-ws.org).
 
 ## Important Dates
 
-- Submission of papers:      April 16, 2017
-- Notification:            May 14, 2017
-- Workshop date:         July 20, 2017
+- Submission of papers:      April 28, 2017
+- Notification:              May   26, 2017
+- Workshop date:             July  20, 2017
