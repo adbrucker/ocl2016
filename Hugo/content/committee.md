@@ -33,7 +33,7 @@ title = "Committee"
 * Shahar Maoz, Tel Aviv University, Israel
 * Istvan Rath, Budapest University of Technology and Economics, Hungary
 * Bernhard Rumpe, RWTH Aachen, Germany
-* Frederic Tuong, Univ . Paris - Sud - IRT SystemX - LRI, France
+* Frederic Tuong, Nanyang Technological University, Singapore
 * Claas Wilke, Technische Universitat Dresden, Germany
 * Edward Willink, Willink Transformations Ltd ., UK
 * Burkhart Wolff, Univ . Paris - Sud - LRI, France
