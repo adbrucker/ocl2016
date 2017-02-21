@@ -12,5 +12,5 @@ title = "Important dates"
 The important dates you should bear in mind for the workshop are the following:
 
 - Submission of papers:      April 28, 2017
-- Notification:            May 14, 2017
+- Notification:            May 25, 2017
 - Workshop date:         July 17, 2017
