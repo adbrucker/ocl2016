@@ -13,4 +13,4 @@ The important dates you should bear in mind for the workshop are the following:
 
 - ~~Submission of papers:      April 21, 2017~~
 - ~~Notification:            May 25, 2017~~
-- Workshop date:         July 19, 2017
+- Workshop date:         July 20, 2017
