@@ -28,9 +28,10 @@ title = "Committee"
 * Birgit Demuth, Technische Universitat Dresden, Germany
 * Marina Egea, Indra Sistemas S .A., Spain
 * Geri Georg, Colorado State University, USA
+* Martin Gogolla, University of Bremen, Germany
 * Adolfo Sanchez - Barbudo Herrera, University of York, UK
-* Shahar Maoz, Tel Aviv University, Israel
 * Istvan Rath, Budapest University of Technology and Economics, Hungary
+* Jan Oliver Ringert, Tel Aviv University, Israel
 * Bernhard Rumpe, RWTH Aachen, Germany
 * Frederic Tuong, Nanyang Technological University, Singapore
 * Claas Wilke, Technische Universitat Dresden, Germany
