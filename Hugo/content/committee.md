@@ -22,7 +22,7 @@ title = "Committee"
 * Jordi Cabot, Inria - Open University of Catalonia, Spain
 * Dan Chiorean, Babes - Bolyai University, Romania
 * Robert Clariso, Universitat Oberta de Catalunya, Spain
-* Tony Clark, Middlesex University, UK
+* Tony Clark, Sheffield Hallam University, UK
 * Manuel Clavel, IMDEA Software Institute, Spain
 * Carolina Dania, Hotels.com, The Netherlands
 * Birgit Demuth, Technische Universitat Dresden, Germany
