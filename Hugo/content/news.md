@@ -9,7 +9,7 @@ title = "News"
 
 # News !!!
 
-### Deadline postponed to May ~~02~~07, 2017
+### Deadline postponed to May ~~02~~ 07, 2017
 
 To give you more time to prepare your paper, we have extended the paper deadline to May 07, 2017 AOE.
 
