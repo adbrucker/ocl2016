@@ -1,7 +1,7 @@
 +++
 weight = 1
 Description = "Call for Papers"
-date = "2017-01-25T11:50:19+01:00"
+date = "2017-01-29T11:50:19+01:00"
 menu = "main"
 title = "Call for Papers"
 
@@ -89,7 +89,7 @@ Two types of papers will be considered:
 or position papers.
 * Full papers (between 12 and 16 pages).
 
-in LNCS format. Submissions should be uploaded to [EasyChair](https://easychair.org/conferences/?conf=ocl17).
+in LNCS format. Submissions should be uploaded to [EasyChair](https://easychair.org/conferences/?conf=ocl2017).
 The program committee will review the submissions (minimum 2 reviews per
 paper, usually 3 reviews) and select papers according to their
 relevance and interest for discussions that will take place at the
@@ -98,6 +98,6 @@ post-conference edition of [CEUR](http://www.ceur-ws.org).
 
 ## Important Dates
 
-- Submission of papers:      April 28, 2017
+- Submission of papers:      ~~April 28~~ May 07, 2017
 - Notification:            May 25, 2017
 - Workshop date:         July 20, 2017
