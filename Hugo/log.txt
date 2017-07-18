@@ -268,3 +268,93 @@ LOG:   2017/06/14 23:43:44 site.go:1662: 0 paginator pages created
 LOG:   2017/06/14 23:43:44 site.go:1666: 0 tags created
 LOG:   2017/06/14 23:43:44 site.go:1666: 0 categories created
 LOG:   2017/06/14 23:43:44 hugo_sites_build.go:63: total in 156 ms
+LOG:   2017/07/10 16:16:06 hugo.go:667: Started building sites ...
+WARN: 2017/07/10 16:16:06 template_i18n.go:63: No translation bundle found for default language "en"
+WARN: 2017/07/10 16:16:06 template_i18n.go:45: Translation func for language en not found, use default.
+WARN: 2017/07/10 16:16:06 template_i18n.go:45: Translation func for language en not found, use default.
+LOG:   2017/07/10 16:16:06 site.go:1655: Built site for language en:
+LOG:   2017/07/10 16:16:06 site.go:1656: 0 of 2 drafts rendered
+LOG:   2017/07/10 16:16:06 site.go:1657: 0 future content
+LOG:   2017/07/10 16:16:06 site.go:1658: 0 expired content
+LOG:   2017/07/10 16:16:06 site.go:1659: 7 regular pages created
+LOG:   2017/07/10 16:16:06 site.go:1660: 1 other pages created
+LOG:   2017/07/10 16:16:06 site.go:1661: 0 non-page files copied
+LOG:   2017/07/10 16:16:06 site.go:1662: 0 paginator pages created
+LOG:   2017/07/10 16:16:06 site.go:1666: 0 tags created
+LOG:   2017/07/10 16:16:06 site.go:1666: 0 categories created
+LOG:   2017/07/10 16:16:06 hugo_sites_build.go:63: total in 377 ms
+LOG:   2017/07/14 23:26:22 hugo.go:667: Started building sites ...
+WARN: 2017/07/14 23:26:22 template_i18n.go:63: No translation bundle found for default language "en"
+WARN: 2017/07/14 23:26:22 template_i18n.go:45: Translation func for language en not found, use default.
+WARN: 2017/07/14 23:26:22 template_i18n.go:45: Translation func for language en not found, use default.
+LOG:   2017/07/14 23:26:22 site.go:1655: Built site for language en:
+LOG:   2017/07/14 23:26:22 site.go:1656: 0 of 2 drafts rendered
+LOG:   2017/07/14 23:26:22 site.go:1657: 0 future content
+LOG:   2017/07/14 23:26:22 site.go:1658: 0 expired content
+LOG:   2017/07/14 23:26:22 site.go:1659: 7 regular pages created
+LOG:   2017/07/14 23:26:22 site.go:1660: 1 other pages created
+LOG:   2017/07/14 23:26:22 site.go:1661: 0 non-page files copied
+LOG:   2017/07/14 23:26:22 site.go:1662: 0 paginator pages created
+LOG:   2017/07/14 23:26:22 site.go:1666: 0 tags created
+LOG:   2017/07/14 23:26:22 site.go:1666: 0 categories created
+LOG:   2017/07/14 23:26:22 hugo_sites_build.go:63: total in 102 ms
+LOG:   2017/07/14 23:27:46 hugo.go:667: Started building sites ...
+WARN: 2017/07/14 23:27:46 template_i18n.go:63: No translation bundle found for default language "en"
+WARN: 2017/07/14 23:27:46 template_i18n.go:45: Translation func for language en not found, use default.
+WARN: 2017/07/14 23:27:46 template_i18n.go:45: Translation func for language en not found, use default.
+LOG:   2017/07/14 23:27:46 site.go:1655: Built site for language en:
+LOG:   2017/07/14 23:27:46 site.go:1656: 0 of 2 drafts rendered
+LOG:   2017/07/14 23:27:46 site.go:1657: 0 future content
+LOG:   2017/07/14 23:27:46 site.go:1658: 0 expired content
+LOG:   2017/07/14 23:27:46 site.go:1659: 7 regular pages created
+LOG:   2017/07/14 23:27:46 site.go:1660: 1 other pages created
+LOG:   2017/07/14 23:27:46 site.go:1661: 0 non-page files copied
+LOG:   2017/07/14 23:27:46 site.go:1662: 0 paginator pages created
+LOG:   2017/07/14 23:27:46 site.go:1666: 0 tags created
+LOG:   2017/07/14 23:27:46 site.go:1666: 0 categories created
+LOG:   2017/07/14 23:27:46 hugo_sites_build.go:63: total in 94 ms
+LOG:   2017/07/14 23:29:03 hugo.go:667: Started building sites ...
+WARN: 2017/07/14 23:29:03 template_i18n.go:63: No translation bundle found for default language "en"
+WARN: 2017/07/14 23:29:03 template_i18n.go:45: Translation func for language en not found, use default.
+WARN: 2017/07/14 23:29:03 template_i18n.go:45: Translation func for language en not found, use default.
+LOG:   2017/07/14 23:29:03 site.go:1655: Built site for language en:
+LOG:   2017/07/14 23:29:03 site.go:1656: 0 of 2 drafts rendered
+LOG:   2017/07/14 23:29:03 site.go:1657: 0 future content
+LOG:   2017/07/14 23:29:03 site.go:1658: 0 expired content
+LOG:   2017/07/14 23:29:03 site.go:1659: 7 regular pages created
+LOG:   2017/07/14 23:29:03 site.go:1660: 1 other pages created
+LOG:   2017/07/14 23:29:03 site.go:1661: 0 non-page files copied
+LOG:   2017/07/14 23:29:03 site.go:1662: 0 paginator pages created
+LOG:   2017/07/14 23:29:03 site.go:1666: 0 tags created
+LOG:   2017/07/14 23:29:03 site.go:1666: 0 categories created
+LOG:   2017/07/14 23:29:03 hugo_sites_build.go:63: total in 69 ms
+LOG:   2017/07/18 14:47:36 hugo.go:667: Started building sites ...
+WARN: 2017/07/18 14:47:36 template_i18n.go:63: No translation bundle found for default language "en"
+WARN: 2017/07/18 14:47:36 template_i18n.go:45: Translation func for language en not found, use default.
+WARN: 2017/07/18 14:47:36 template_i18n.go:45: Translation func for language en not found, use default.
+LOG:   2017/07/18 14:47:36 site.go:1655: Built site for language en:
+LOG:   2017/07/18 14:47:36 site.go:1656: 0 of 2 drafts rendered
+LOG:   2017/07/18 14:47:36 site.go:1657: 0 future content
+LOG:   2017/07/18 14:47:36 site.go:1658: 0 expired content
+LOG:   2017/07/18 14:47:36 site.go:1659: 7 regular pages created
+LOG:   2017/07/18 14:47:36 site.go:1660: 1 other pages created
+LOG:   2017/07/18 14:47:36 site.go:1661: 0 non-page files copied
+LOG:   2017/07/18 14:47:36 site.go:1662: 0 paginator pages created
+LOG:   2017/07/18 14:47:36 site.go:1666: 0 categories created
+LOG:   2017/07/18 14:47:36 site.go:1666: 0 tags created
+LOG:   2017/07/18 14:47:36 hugo_sites_build.go:63: total in 63 ms
+LOG:   2017/07/18 14:48:24 hugo.go:667: Started building sites ...
+WARN: 2017/07/18 14:48:24 template_i18n.go:63: No translation bundle found for default language "en"
+WARN: 2017/07/18 14:48:24 template_i18n.go:45: Translation func for language en not found, use default.
+WARN: 2017/07/18 14:48:24 template_i18n.go:45: Translation func for language en not found, use default.
+LOG:   2017/07/18 14:48:24 site.go:1655: Built site for language en:
+LOG:   2017/07/18 14:48:24 site.go:1656: 0 of 2 drafts rendered
+LOG:   2017/07/18 14:48:24 site.go:1657: 0 future content
+LOG:   2017/07/18 14:48:24 site.go:1658: 0 expired content
+LOG:   2017/07/18 14:48:24 site.go:1659: 7 regular pages created
+LOG:   2017/07/18 14:48:24 site.go:1660: 1 other pages created
+LOG:   2017/07/18 14:48:24 site.go:1661: 0 non-page files copied
+LOG:   2017/07/18 14:48:24 site.go:1662: 0 paginator pages created
+LOG:   2017/07/18 14:48:24 site.go:1666: 0 tags created
+LOG:   2017/07/18 14:48:24 site.go:1666: 0 categories created
+LOG:   2017/07/18 14:48:24 hugo_sites_build.go:63: total in 57 ms
