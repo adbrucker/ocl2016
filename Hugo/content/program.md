@@ -24,4 +24,7 @@ The workshop will be run __the 20th of July__, from 11:00 am to 6:00 pm in the f
 * Coffee Break (15:30 - 16:00)
 
 * __Session 3: 16:00 - 18:00__
- * Open Discussion and Lightning Talks, e.g. Commutative Short Circuit Operators, by Ed Willink and Managing MATLAB Simulink models with Epsilon by Dimitris Kolovos
+ * Open Discussion and Lightning Talks. We have received the following topics:
+  * _Commutative Short Circuit Operators_, by Ed Willink 
+  * _Managing MATLAB Simulink models with Epsilon_ by Dimitris Kolovos
+  * _Non-Determinateness vs. Randomness in OCL *or* How to Write Crazy OCL Postconditions_ by Martin Gogolla and Antonio Vallecillo
